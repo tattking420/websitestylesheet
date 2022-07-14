@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="stylesheet.css" >
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,400;1,400&family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+    <title>MY WEBSITE STYLE GUIDE</title>
+</head>
+
+
+<body>
+
+
+    <!--Header-->
+
+
+    <div class="header" id="title">
+        <h1>My Website Style Guide</h1>
+        <p>P.S: Styles may vary</p>
+    </div>
+
+
+    <!--colors-->
+
+
+    <div class="container" id="colorcontainer">
+        <h2>Colors</h2>
+
+
+        <div class="colorpanel">
+           <div class="darkpanel">
+            <p class="dark"> Dark Olive </p>
+                <p class="hexdark"> #574D35 </p>
+            
+            </div>    
+        </div>
+
+
+        <div class="colorpanel">
+            <div class="lightpanel">
+            <p class="light"> Light Olive </p>  
+                <p class="hexlight">#fff7cd</p>
+             
+            </div>
+        </div>
+
+
+        <div class="colorpanel">
+            <div class="graypanel">
+            <p class="gray"> Gray Olive </p>
+            <p class="hexgray">#3d3925</p>
+            
+            </div>
+        </div>
+
+
+    </div>
+
+
+    <!--Fonts-->
+
+
+    <div class="container" id="fontscontainer">
+        <h2>Fonts</h2>
+        
+        <div class="fontpanel">
+        <p class="fontlabel">Roboto Regular 400</p>
+        <p class="regular-roboto">The quick brown fox jumps over the lazy dog.</p>
+        <p class="bold-roboto">The quick brown fox jumps over the lazy dog.</p>
+        <p class="italic-roboto">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+        <div class="fontpanel">
+            <p class="fontlabel">Poppins</p>
+            <p class="regular-poppins">The quick brown fox jumps over the lazy dog.</p>
+            <p class="bold-poppins">The quick brown fox jumps over the lazy dog.</p>
+            <p class="italic-poppins">The quick brown fox jumps over the lazy dog.</p>
+        </div>
+
+    </div>
+
+
+    <!--Text Styles-->
+
+
+        <div class="container" id="textstylecontainer">
+            <h2>Text Styles</h2>
+            <div class="h1panel">
+                <h1>H1: Main page Heading</h1>
+                <ul>
+                    <li>Font-weight: 700 (bold)</li>
+                    <li>Font-size: 26px</li>
+                    <li>Roboto</li>
+                </ul>
+            </div>
+        <div class="h2panel">
+            <h2>H2: Subheading</h2>
+            <ul>
+                <li>Font-weight: 500</li>
+                <li>Font-size: 18px</li>
+                <li>Font-family: Poppins</li>
+            </ul>
+        </div>
+        <div class="ppanel">
+            <p>P: Paragraph text</p>
+            <ul>
+                <li>Font-weight: 400 (regular)</li>
+                <li>Font-size: 14px</li>
+                <li>Font-family: Poppins</li>
+            </ul>
+
+        </div>
+           
+        </div>
+
+        
+    </div>
+
+
+</body>
+
+
+</html>
